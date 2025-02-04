@@ -1,1 +1,2 @@
-# lhstestwebsite.github.io
+# lhs.
+github.io
